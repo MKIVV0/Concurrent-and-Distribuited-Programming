@@ -1,0 +1,13 @@
+The bank account exercise is an exercise that I invented and coded, without any reference.
+This exercise's aim was to test my knowledge about basic thread functions.
+
+There's a bank account, labelled with a name, which represents the owner, and a bank account type, which 
+describes the type of the account (family or personal).
+A bank account can be asigned to one person or to multiple people and each one of them can perform the following actions:
+- withrawal
+- deposit
+
+At the end of thye program, the following informations are printed regarding an account:
+- total amount of money withdrawn
+- total amount of money deposited
+- available funds
