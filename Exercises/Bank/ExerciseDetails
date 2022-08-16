@@ -13,3 +13,7 @@ At the end of thye program, the following informations are printed regarding an 
 - available funds
 
 The amount of money withdrawn and deposited are not deterministic: they are randomized.
+
+Thread topics treated:
+- synchronized blocks --> race conditions
+- thread manipulation (join, notify)
